@@ -1,7 +1,9 @@
-#move through the numbers between 1000 and 3000
-#divide each of the numbers by 2 
-#if the result gotten in step three is equals to zero, store  is a container
-#print to display the container
+# move through the numbers between 1000 and 3000
+# get each of the digits in the numbers gotten from step one
+# divide each of the numbers by 2 and compare them
+# if the result gotten in step three is equals to zero, store  is a container
+# print to display the container
+
 
 
 for number in range(1000, 3002, 2):
