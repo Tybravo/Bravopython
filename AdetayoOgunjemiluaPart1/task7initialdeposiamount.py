@@ -1,8 +1,6 @@
-#prompt the user to enter number of minutes
-#collect the user inputs
-
 #declare the annual rate
 #declare the monthly rate
+#declare number of months
 #declare the amount need to deposit after 3 years
 #divide final account value by 1 + monthly interest rate  raised to power number of months
 

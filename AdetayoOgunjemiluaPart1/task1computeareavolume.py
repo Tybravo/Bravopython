@@ -12,7 +12,7 @@
 radius = int(input("Enter the radius of the cylinder: "))
 length = int(input("Enter the length of the cylinder: "))
 
-pie = 3.142
+PI = 3.142
 isarea = pie * (radius ** 2)
 isvolume = isarea * length
 

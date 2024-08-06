@@ -10,13 +10,13 @@ collectminutes =  int(input("Enter number of minutes :"))
 
 minutes_in_aday = 60 * 24
 
-yearsanddays = collectminutes /minutes_in_aday /365
+exactyears= collectminutes /minutes_in_aday /365
 dayremaining = (collectminutes /minutes_in_aday) % 365
 
-yearsanddays = yearsanddays // 1
+exactyears = exactyears // 1
 dayremaining = dayremaining // 1
 
-print("Years is ", yearsanddays, "Days is",dayremaining )
+print("Years is ", exactyears, "Days is",dayremaining )
 	
 
 
