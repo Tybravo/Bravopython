@@ -15,7 +15,7 @@ class TestWordOccurrence(unittest.TestCase):
         ignore_case = characterccurrence.character_occurrence("MaxiMum")
         self.assertEqual({'M':2, 'a':1,'x':1, 'i':1, 'u':1, 'm':1}, ignore_case)
 
-    def test_char_occurrence_contain_digit_alphabet(self):
+    def test_chara_occurrence_contain_digit_alphabet(self):
         alphabets = characterccurrence.character_occurrence("Ade4438888")
         self.assertEqual({'A':1, 'd':1,'e':1, '4':2, '3':1, '8':4}, alphabets)
 
