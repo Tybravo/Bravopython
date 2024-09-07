@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="83cc588b-ca27-4e6d-90ad-8adc62d9264a" name="Changes" comment="Updated python file">
+      <change afterPath="$PROJECT_DIR$/.idea/bravoclasswork.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.fish" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.nu" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.ps1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate_this.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/deactivate.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip-3.12.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip3.12.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip3.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pydoc.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_account.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_aircondition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_biggestodd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_dict3multiple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_01/accountsample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_01/airconditioner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_01/biggestodd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_01/characterccurrence.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_01/dict3multiples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_01/getnestedtuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_01/mainsample.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_02/samplework.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_02/twicesumoftwovariables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateone/studentgrade.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tybravo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tybravo/semicpython.git&quot;,
+    &quot;accountId&quot;: &quot;b74f9a41-0afd-4c96-9c65-96944b1f7176&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2kuuHWc3eFurYoxhCCY5kcC9Y7L" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python tests.Python tests for Tests.TestBigOdds.TestBigOdds.executor": "Run",
+    "Python tests.Python tests for test_account.TestAccount.executor": "Run",
+    "Python tests.Python tests for test_account.TestAccount.test_account_cannot_deposit_negative.executor": "Run",
+    "Python tests.Python tests for test_account.TestAccount.test_that_account_balance_Zero.executor": "Run",
+    "Python tests.Python tests for test_account.TestAccount.test_that_account_can_deposit.executor": "Run",
+    "Python tests.Python tests for test_account.TestAccount.test_that_account_exist.executor": "Run",
+    "Python tests.Python tests for test_aircondition.TestAirconditioner.executor": "Run",
+    "Python tests.Python tests for test_biggestodd.TestBigOdds.executor": "Run",
+    "Python tests.Python tests for test_biggestodd.TestBigOdds.test_that_biggest_odds_function_exist.executor": "Run",
+    "Python tests.Python tests for test_biggestodd.TestBiggestOdd.executor": "Run",
+    "Python tests.Python tests for test_biggestodd.TestBiggestOdd.test_biggest_function_returns_biggest_odds.executor": "Run",
+    "Python tests.Python tests for test_biggestodd.TestBiggestOdd.test_that_biggest_odds_function_exist.executor": "Run",
+    "Python tests.Python tests for test_characteroccurrence.TestWordOccurrence.executor": "Run",
+    "Python tests.Python tests for test_dict3multiple.TestKeyCube.executor": "Run",
+    "Python tests.Python tests for test_dict3multiple.TestKeyCube.test_that_key_cube_function_returns_dict.executor": "Run",
+    "Python tests.Python tests for test_wordoccurrence.TestWordOccurrence.executor": "Run",
+    "Python tests.Python tests for test_wordoccurrence.TestWordOccurrence.test_word_occurrence_contain_digit_alphabet.executor": "Run",
+    "Python tests.Python tests for test_wordoccurrence.TestWordOccurrence.test_word_occurrence_exist.executor": "Run",
+    "Python tests.Python tests for test_wordoccurrence.TestWordOccurrence.test_word_occurrence_ignore_case.executor": "Run",
+    "Python tests.Python tests for test_wordoccurrence.TestWordOccurrence.test_word_occurrence_not_exist.executor": "Run",
+    "Python tests.Python tests in TestBigOdds.py.executor": "Run",
+    "Python tests.Python tests in TestBiggestOdd.py.executor": "Run",
+    "Python tests.Python tests in test_account.py.executor": "Run",
+    "Python tests.Python tests in test_biggest_odd.py.executor": "Run",
+    "Python tests.Python tests in test_biggestodd.py.executor": "Run",
+    "Python tests.Python tests in test_characteroccurrence.py.executor": "Run",
+    "Python tests.Python tests in test_dict3multiple.py.executor": "Run",
+    "Python tests.Python tests in test_wordoccurrence.py.executor": "Run",
+    "Python tests.Python tests in testaccount.py.executor": "Run",
+    "Python.accountsample.executor": "Run",
+    "Python.biggestodd.executor": "Run",
+    "Python.bigget_odd.executor": "Run",
+    "Python.characterccurrence (1).executor": "Run",
+    "Python.characterccurrence.executor": "Run",
+    "Python.dict3multiples.executor": "Run",
+    "Python.getnestedtuple.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.mainsample.executor": "Run",
+    "Python.maintest.executor": "Run",
+    "Python.samplework.executor": "Run",
+    "Python.studentgrade.executor": "Run",
+    "Python.wordoccurrence.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/DELL USER/Documents/Semic Python/semicpython",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "repository"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL USER\Documents\Semic Python\semicpython" />
+      <recent name="C:\Users\DELL USER\Documents\Semic Python" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL USER\PycharmProjects\bravoblaze\class_02" />
+      <recent name="C:\Users\DELL USER\PycharmProjects\bravoblaze\class_01" />
+      <recent name="C:\Users\DELL USER\PycharmProjects\bravoblaze\gateone" />
+      <recent name="C:\Users\DELL USER\PycharmProjects\bravoblaze\Tests" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_characteroccurrence.TestWordOccurrence">
+    <configuration name="characterccurrence (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bravoclasswork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_01/characterccurrence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="characterccurrence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bravoclasswork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_01" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\DELL USER\PycharmProjects\bravoblaze\class_01\characterccurrence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for Tests.test_characteroccurrence.TestWordOccurrence" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bravoclasswork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Tests.test_characteroccurrence.TestWordOccurrence&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_characteroccurrence.TestWordOccurrence" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bravoclasswork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_characteroccurrence.TestWordOccurrence&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_characteroccurrence.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bravoclasswork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/test_characteroccurrence.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_characteroccurrence.TestWordOccurrence" />
+        <item itemvalue="Python.characterccurrence (1)" />
+        <item itemvalue="Python tests.Python tests in test_characteroccurrence.py" />
+        <item itemvalue="Python tests.Python tests for Tests.test_characteroccurrence.TestWordOccurrence" />
+        <item itemvalue="Python.characterccurrence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-410509235cf1-JavaScript-PY-242.20224.347" />
+        <option value="bundled-python-sdk-c2d6afa66fbe-39cff9de6eef-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.20224.347" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83cc588b-ca27-4e6d-90ad-8adc62d9264a" name="Changes" comment="" />
+      <created>1724145697582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724145697582</updated>
+      <workItem from="1724145718366" duration="25728000" />
+      <workItem from="1724297518060" duration="10346000" />
+      <workItem from="1724420552369" duration="43254000" />
+      <workItem from="1725340440278" duration="5064000" />
+      <workItem from="1725616296376" duration="23984000" />
+      <workItem from="1725658897498" duration="395000" />
+      <workItem from="1725659459741" duration="5000" />
+      <workItem from="1725661148136" duration="387000" />
+      <workItem from="1725693229964" duration="454000" />
+      <workItem from="1725693708734" duration="426000" />
+      <workItem from="1725694178700" duration="2201000" />
+    </task>
+    <task id="LOCAL-00001" summary="Updated python file">
+      <option name="closed" value="true" />
+      <created>1725694587748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725694587748</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Updated python file">
+      <option name="closed" value="true" />
+      <created>1725694881741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725694881741</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Updated python file">
+      <option name="closed" value="true" />
+      <created>1725695907303</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725695907303</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated python file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated python file" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bravoblaze$samplework.coverage" NAME="samplework Coverage Results" MODIFIED="1725426244130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_02" />
+    <SUITE FILE_PATH="coverage/bravoblaze$bigget_odd.coverage" NAME="bigget_odd Coverage Results" MODIFIED="1724423394264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoblaze$studentgrade.coverage" NAME="studentgrade Coverage Results" MODIFIED="1725426485186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gateone" />
+    <SUITE FILE_PATH="coverage/bravoblaze$biggestodd.coverage" NAME="biggestodd Coverage Results" MODIFIED="1724450365750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoblaze$.coverage" NAME=" Coverage Results" MODIFIED="1725654617974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/bravoblaze$dict3multiples.coverage" NAME="dict3multiples Coverage Results" MODIFIED="1725616978065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoblaze$accountsample.coverage" NAME="accountsample Coverage Results" MODIFIED="1724218090167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bravoblaze$wordoccurrence.coverage" NAME="wordoccurrence Coverage Results" MODIFIED="1725633075836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoblaze$maintest.coverage" NAME="maintest Coverage Results" MODIFIED="1724162370659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bravoblaze$main.coverage" NAME="main Coverage Results" MODIFIED="1724217868137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bravoblaze$characterccurrence__1_.coverage" NAME="characterccurrence (1) Coverage Results" MODIFIED="1725654628761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoblaze$getnestedtuple.coverage" NAME="getnestedtuple Coverage Results" MODIFIED="1724300419166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bravoblaze$characterccurrence.coverage" NAME="characterccurrence Coverage Results" MODIFIED="1725646227567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$.coverage" NAME=" Coverage Results" MODIFIED="1725694462125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/bravoblaze$mainsample.coverage" NAME="mainsample Coverage Results" MODIFIED="1724759712039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+  </component>
+</project>
