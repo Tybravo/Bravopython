@@ -1,9 +1,11 @@
 import random
 import string
+import re
 
-global random_number, random_upper_letter, random_lower_letter
 
 def passw_gen():
+    global random_number, random_upper_letter, random_lower_letter
+
     collect_number = []
     collect_lower_letter = []
     collect_upper_letter = []
@@ -24,7 +26,11 @@ def passw_gen():
         collect_symbol.append(random_special)
 
     password_generator = collect_number + collect_lower_letter + collect_upper_letter + collect_symbol
-    random.shuffle(password_generator)
+
+    password_generator = "".join(password_generator)
+    if re.fullmatch(r'\b[A-Za-z0-9._%+-]+[@-A-Za-z0-9.-]', password_generator):
+        random.shuffle(password_generator)
+
     return (f" {''.join(password_generator)} {len(collect_number)} {len(collect_lower_letter)} {len(collect_upper_letter)} {len(collect_symbol)} {len(password_generator)}")
 
 print(passw_gen())
