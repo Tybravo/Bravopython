@@ -36,4 +36,3 @@ def passw_gen():
 print(passw_gen())
 
 
-

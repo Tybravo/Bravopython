@@ -36,4 +36,3 @@ class TestPasswordgenerator(unittest.TestCase):
         given = re.fullmatch(r'^(?=.*[0-9])(?=.*[a-z])(?=.*[A-Z])(?=.*[\W_]).+$', valid)
         self.assertTrue(given, valid)
 
-

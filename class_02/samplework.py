@@ -1,32 +1,76 @@
-# Input the number of students and subjects
-num_of_students = int(input("Enter number of students: "))
-num_of_subjects = int(input("Enter number of subjects: "))
 
-reg_student = []
+import random
 
-for student in range(num_of_students):
-    scores = []
-    print(f"\nEntering scores for Student {student + 1}:")
-    for subject in range(num_of_subjects):
-        score = int(input(f"Enter score for subject {subject + 1}: "))
-        scores.append(score)
-    reg_student.append(scores)
+# Generate a random integer between 1 and 10
+random_number = random.randint(1, 10)
 
-total_scores = []
-average_scores = []
+print(random_number)
 
-for scores in reg_student:
-    total = sum(scores)
-    average = total / num_of_subjects
-    total_scores.append(total)
-    average_scores.append(average)
 
-positions = sorted(range(len(total_scores)), key=lambda x: total_scores[x], reverse=True)
-positions = [positions.index(i) + 1 for i in range(len(total_scores))]
+###########################################################################################################
 
-print("\nResults:")
-print(f"{'Student':<10}{'Subjects':<20}{'Total Score':<15}{'Average Score':<15}{'Position':<10}")
+import random
 
-for i in range(num_of_students):
-    student_subjects = ' '.join(map(str, reg_student[i]))
-    print(f"{'Student ' + str(i + 1):<10}{student_subjects:<20}{total_scores[i]:<15}{average_scores[i]:<15.2f}{positions[i]:<10}")
+# Generate 5 random integers between 1 and 100
+for _ in range(5):
+    print(random.randint(1, 100))
+
+
+#########################################################################################################
+
+
+random_number = random.randrange(1, 10)  # Generates a number between 1 and 9 (inclusive of 1, but exclusive of 10)
+print(random_number)
+
+
+import random
+import string
+
+# Generate a random lowercase letter
+random_lowercase_letter = random.choice(string.ascii_lowercase)
+print(random_lowercase_letter)
+
+# Generate a random uppercase letter
+random_uppercase_letter = random.choice(string.ascii_uppercase)
+print(random_uppercase_letter)
+
+# Generate a random letter (uppercase or lowercase)
+random_letter = random.choice(string.ascii_letters)
+print(random_letter)
+
+# Generate a random digit
+random_digit = random.choice(string.digits)
+print(random_digit)
+
+
+#########################################################################################
+
+
+import random
+
+# Custom character set
+characters = 'ABCDEF123456!@#'
+
+# Generate a random character from the custom set
+random_char = random.choice(characters)
+print(random_char)
+
+
+
+#############################################################################################
+
+
+import random
+import string
+
+# Generate 5 random lowercase letters
+random_letters = [random.choice(string.ascii_lowercase) for _ in range(5)]
+print(''.join(random_letters))
+
+# Generate 5 random characters from a custom set
+characters = 'ABCDEF123456!@#'
+random_custom_chars = [random.choice(characters) for _ in range(5)]
+print(''.join(random_custom_chars))
+
+
+#############################################################################################

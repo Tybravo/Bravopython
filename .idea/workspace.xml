@@ -5,42 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83cc588b-ca27-4e6d-90ad-8adc62d9264a" name="Changes" comment="Updated python file">
-      <change afterPath="$PROJECT_DIR$/.idea/bravoclasswork.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.fish" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.nu" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/activate_this.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/deactivate.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip-3.12.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip3.12.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pip3.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pydoc.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/python.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/Scripts/pythonw.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.venv/pyvenv.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_account.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_aircondition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_biggestodd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tests/test_dict3multiple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_01/accountsample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_01/airconditioner.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_01/biggestodd.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_01/characterccurrence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_01/dict3multiples.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_01/getnestedtuple.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_01/mainsample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_02/samplework.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_02/twicesumoftwovariables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateone/studentgrade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_emailvalidation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_listandtuple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tests/test_passwgen.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tests/test_passwgen.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/class_02/samplework.py" beforeDir="false" afterPath="$PROJECT_DIR$/class_02/samplework.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +25,14 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -92,9 +69,40 @@
     "Python tests.Python tests for test_biggestodd.TestBiggestOdd.executor": "Run",
     "Python tests.Python tests for test_biggestodd.TestBiggestOdd.test_biggest_function_returns_biggest_odds.executor": "Run",
     "Python tests.Python tests for test_biggestodd.TestBiggestOdd.test_that_biggest_odds_function_exist.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_that_function_to_add_every_second_digit_right_to_left_exist.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_to_add_every_second_digit_right_to_left.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_to_add_odd_digits_right_to_left.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_to_get_card_length.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_to_get_first_digit_to_check_card_type.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_to_get_first_digit_to_check_wrong_card_type.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_to_get_wrong_card_length.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_to_validate_card_status.executor": "Run",
+    "Python tests.Python tests for test_cardvalidator.TestCardValidator.test_to_validate_wrong_card_status.executor": "Run",
     "Python tests.Python tests for test_characteroccurrence.TestWordOccurrence.executor": "Run",
+    "Python tests.Python tests for test_countevenodd.TestCountEvenOdd.executor": "Run",
+    "Python tests.Python tests for test_countevenodd.TestCountEvenOdd.test_to_count_even_odd_numbers_in_a_list.executor": "Run",
     "Python tests.Python tests for test_dict3multiple.TestKeyCube.executor": "Run",
     "Python tests.Python tests for test_dict3multiple.TestKeyCube.test_that_key_cube_function_returns_dict.executor": "Run",
+    "Python tests.Python tests for test_divideaddword.TestDivideAddWord.executor": "Run",
+    "Python tests.Python tests for test_divideaddword.TestDivideAddWord.test_cannot_add_ce_to_middle_for_indivisible_word.executor": "Run",
+    "Python tests.Python tests for test_divideaddword.TestDivideAddWord.test_cannot_add_ce_to_the_end_of_divisible_word.executor": "Run",
+    "Python tests.Python tests for test_divideaddword.TestDivideAddWord.test_cannot_divide_add_word_at_the_end.executor": "Run",
+    "Python tests.Python tests for test_divideaddword.TestDivideAddWord.test_divide_add_word_ce_at_the_middle.executor": "Run",
+    "Python tests.Python tests for test_divideaddword.TestDivideAddWord.test_divide_add_word_function_exist.executor": "Run",
+    "Python tests.Python tests for test_emailvalidation.TestEmailValidation.executor": "Run",
+    "Python tests.Python tests for test_emailvalidation.TestEmailValidation.test_that_email_is_valid.executor": "Run",
+    "Python tests.Python tests for test_passwgen.TestPasswordgenerator.executor": "Run",
+    "Python tests.Python tests for test_passwgen.TestPasswordgenerator.test_password_generator_exist.executor": "Run",
+    "Python tests.Python tests for test_passwgen.TestPasswordgenerator.test_password_generator_ingredient_length.executor": "Run",
+    "Python tests.Python tests for test_passwgen.TestPasswordgenerator.test_password_generator_password_valid_regrex.executor": "Run",
+    "Python tests.Python tests for test_removespecialchar.TestRemoveSpecialChar.executor": "Run",
+    "Python tests.Python tests for test_removespecialchar.TestRemoveSpecialChar.test_that_function_exist.executor": "Run",
+    "Python tests.Python tests for test_removespecialchar.TestRemoveSpecialChar.test_to_remove_special_character.executor": "Run",
+    "Python tests.Python tests for test_swapstringadd.TestSwapStringAdd.executor": "Run",
+    "Python tests.Python tests for test_swapstringadd.TestSwapStringAdd.test_that_character_in_string_is_6.executor": "Run",
+    "Python tests.Python tests for test_swapstringadd.TestSwapStringAdd.test_that_character_in_string_is_xyc_abz.executor": "Run",
+    "Python tests.Python tests for test_swapstringadd.TestSwapStringAdd.test_that_swap_string_add_function_exist.executor": "Run",
     "Python tests.Python tests for test_wordoccurrence.TestWordOccurrence.executor": "Run",
     "Python tests.Python tests for test_wordoccurrence.TestWordOccurrence.test_word_occurrence_contain_digit_alphabet.executor": "Run",
     "Python tests.Python tests for test_wordoccurrence.TestWordOccurrence.test_word_occurrence_exist.executor": "Run",
@@ -105,26 +113,37 @@
     "Python tests.Python tests in test_account.py.executor": "Run",
     "Python tests.Python tests in test_biggest_odd.py.executor": "Run",
     "Python tests.Python tests in test_biggestodd.py.executor": "Run",
+    "Python tests.Python tests in test_cardvalidator.py.executor": "Run",
     "Python tests.Python tests in test_characteroccurrence.py.executor": "Run",
+    "Python tests.Python tests in test_countevenodd.py.executor": "Run",
     "Python tests.Python tests in test_dict3multiple.py.executor": "Run",
+    "Python tests.Python tests in test_divideaddword.py.executor": "Run",
+    "Python tests.Python tests in test_passwgen.py.executor": "Run",
     "Python tests.Python tests in test_wordoccurrence.py.executor": "Run",
     "Python tests.Python tests in testaccount.py.executor": "Run",
     "Python.accountsample.executor": "Run",
     "Python.biggestodd.executor": "Run",
     "Python.bigget_odd.executor": "Run",
+    "Python.cardvalidator.executor": "Run",
     "Python.characterccurrence (1).executor": "Run",
     "Python.characterccurrence.executor": "Run",
+    "Python.countevenodd.executor": "Run",
     "Python.dict3multiples.executor": "Run",
+    "Python.divideaddword.executor": "Run",
+    "Python.emailvalidation.executor": "Run",
     "Python.getnestedtuple.executor": "Run",
     "Python.main.executor": "Run",
     "Python.mainsample.executor": "Run",
     "Python.maintest.executor": "Run",
+    "Python.passwgen.executor": "Run",
+    "Python.removespecialchar.executor": "Run",
     "Python.samplework.executor": "Run",
     "Python.studentgrade.executor": "Run",
+    "Python.swapstringadd.executor": "Run",
     "Python.wordoccurrence.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/DELL USER/Documents/Semic Python/semicpython",
+    "git-widget-placeholder": "bravo",
+    "last_opened_file_path": "C:/Users/DELL USER/Documents/Bravotask/Bravotaskpy",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -152,8 +171,8 @@
       <recent name="C:\Users\DELL USER\PycharmProjects\bravoblaze\Tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_characteroccurrence.TestWordOccurrence">
-    <configuration name="characterccurrence (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_passwgen.TestPasswordgenerator.test_password_generator_password_valid_regrex">
+    <configuration name="passwgen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bravoclasswork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,7 +186,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_01/characterccurrence.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_01/passwgen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,30 +195,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="characterccurrence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bravoclasswork" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\DELL USER\PycharmProjects\bravoblaze\class_01\characterccurrence.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for Tests.test_characteroccurrence.TestWordOccurrence" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_passwgen.TestPasswordgenerator" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="bravoclasswork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -211,11 +207,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;Tests.test_characteroccurrence.TestWordOccurrence&quot;" />
+      <option name="_new_target" value="&quot;test_passwgen.TestPasswordgenerator&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_characteroccurrence.TestWordOccurrence" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_passwgen.TestPasswordgenerator.test_password_generator_ingredient_length" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="bravoclasswork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -227,11 +223,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_characteroccurrence.TestWordOccurrence&quot;" />
+      <option name="_new_target" value="&quot;test_passwgen.TestPasswordgenerator.test_password_generator_ingredient_length&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests in test_characteroccurrence.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_passwgen.TestPasswordgenerator.test_password_generator_password_valid_regrex" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="bravoclasswork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,17 +239,33 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/test_characteroccurrence.py&quot;" />
+      <option name="_new_target" value="&quot;test_passwgen.TestPasswordgenerator.test_password_generator_password_valid_regrex&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in test_passwgen.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bravoclasswork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/Tests/test_passwgen.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_characteroccurrence.TestWordOccurrence" />
-        <item itemvalue="Python.characterccurrence (1)" />
-        <item itemvalue="Python tests.Python tests in test_characteroccurrence.py" />
-        <item itemvalue="Python tests.Python tests for Tests.test_characteroccurrence.TestWordOccurrence" />
-        <item itemvalue="Python.characterccurrence" />
+        <item itemvalue="Python tests.Python tests for test_passwgen.TestPasswordgenerator.test_password_generator_password_valid_regrex" />
+        <item itemvalue="Python tests.Python tests in test_passwgen.py" />
+        <item itemvalue="Python tests.Python tests for test_passwgen.TestPasswordgenerator" />
+        <item itemvalue="Python tests.Python tests for test_passwgen.TestPasswordgenerator.test_password_generator_ingredient_length" />
+        <item itemvalue="Python.passwgen" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +295,12 @@
       <workItem from="1725661148136" duration="387000" />
       <workItem from="1725693229964" duration="454000" />
       <workItem from="1725693708734" duration="426000" />
-      <workItem from="1725694178700" duration="2201000" />
+      <workItem from="1725694178700" duration="8514000" />
+      <workItem from="1725859720395" duration="32176000" />
+      <workItem from="1726042463934" duration="27666000" />
+      <workItem from="1726361529618" duration="741000" />
+      <workItem from="1726398691281" duration="9597000" />
+      <workItem from="1726665031456" duration="31990000" />
     </task>
     <task id="LOCAL-00001" summary="Updated python file">
       <option name="closed" value="true" />
@@ -309,31 +326,89 @@
       <option name="project" value="LOCAL" />
       <updated>1725695907303</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated python file">
+      <option name="closed" value="true" />
+      <created>1725698053951</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725698053951</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated python file">
+      <option name="closed" value="true" />
+      <created>1725699593760</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725699593760</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added python file">
+      <option name="closed" value="true" />
+      <created>1726937369607</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726937369607</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added python file">
+      <option name="closed" value="true" />
+      <created>1726956910353</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726956910353</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Updated python file">
+      <option name="closed" value="true" />
+      <created>1726957301342</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1726957301342</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated python file">
+      <option name="closed" value="true" />
+      <created>1726994720161</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1726994720161</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added python file" />
     <MESSAGE value="Updated python file" />
     <option name="LAST_COMMIT_MESSAGE" value="Updated python file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/bravoblaze$samplework.coverage" NAME="samplework Coverage Results" MODIFIED="1725426244130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_02" />
     <SUITE FILE_PATH="coverage/bravoblaze$bigget_odd.coverage" NAME="bigget_odd Coverage Results" MODIFIED="1724423394264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
-    <SUITE FILE_PATH="coverage/bravoblaze$studentgrade.coverage" NAME="studentgrade Coverage Results" MODIFIED="1725426485186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gateone" />
-    <SUITE FILE_PATH="coverage/bravoblaze$biggestodd.coverage" NAME="biggestodd Coverage Results" MODIFIED="1724450365750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
-    <SUITE FILE_PATH="coverage/bravoblaze$.coverage" NAME=" Coverage Results" MODIFIED="1725654617974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$swapstringadd.coverage" NAME="swapstringadd Coverage Results" MODIFIED="1725889748015" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$samplework.coverage" NAME="samplework Coverage Results" MODIFIED="1726937007963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_02" />
     <SUITE FILE_PATH="coverage/bravoblaze$dict3multiples.coverage" NAME="dict3multiples Coverage Results" MODIFIED="1725616978065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
-    <SUITE FILE_PATH="coverage/bravoblaze$accountsample.coverage" NAME="accountsample Coverage Results" MODIFIED="1724218090167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/bravoblaze$wordoccurrence.coverage" NAME="wordoccurrence Coverage Results" MODIFIED="1725633075836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoblaze$characterccurrence__1_.coverage" NAME="characterccurrence (1) Coverage Results" MODIFIED="1725654628761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$.coverage" NAME=" Coverage Results" MODIFIED="1726958806069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/bravoblaze$mainsample.coverage" NAME="mainsample Coverage Results" MODIFIED="1724759712039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$emailvalidation.coverage" NAME="emailvalidation Coverage Results" MODIFIED="1726676030280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$cardvalidator.coverage" NAME="cardvalidator Coverage Results" MODIFIED="1726331327484" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$divideaddword.coverage" NAME="divideaddword Coverage Results" MODIFIED="1725904426152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoblaze$studentgrade.coverage" NAME="studentgrade Coverage Results" MODIFIED="1725426485186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gateone" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$studentgrade.coverage" NAME="studentgrade Coverage Results" MODIFIED="1725875846480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/gateone" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$removespecialchar.coverage" NAME="removespecialchar Coverage Results" MODIFIED="1725916436797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoblaze$.coverage" NAME=" Coverage Results" MODIFIED="1725654617974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/bravoblaze$biggestodd.coverage" NAME="biggestodd Coverage Results" MODIFIED="1724450365750" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$passwgen.coverage" NAME="passwgen Coverage Results" MODIFIED="1726956739405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$countevenodd.coverage" NAME="countevenodd Coverage Results" MODIFIED="1726044738907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
+    <SUITE FILE_PATH="coverage/bravoblaze$accountsample.coverage" NAME="accountsample Coverage Results" MODIFIED="1724218090167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/bravoblaze$maintest.coverage" NAME="maintest Coverage Results" MODIFIED="1724162370659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/bravoblaze$main.coverage" NAME="main Coverage Results" MODIFIED="1724217868137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/bravoblaze$characterccurrence__1_.coverage" NAME="characterccurrence (1) Coverage Results" MODIFIED="1725654628761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
     <SUITE FILE_PATH="coverage/bravoblaze$getnestedtuple.coverage" NAME="getnestedtuple Coverage Results" MODIFIED="1724300419166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/bravoblaze$characterccurrence.coverage" NAME="characterccurrence Coverage Results" MODIFIED="1725646227567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
-    <SUITE FILE_PATH="coverage/bravoclasswork$.coverage" NAME=" Coverage Results" MODIFIED="1725694462125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
-    <SUITE FILE_PATH="coverage/bravoblaze$mainsample.coverage" NAME="mainsample Coverage Results" MODIFIED="1724759712039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
   </component>
 </project>
