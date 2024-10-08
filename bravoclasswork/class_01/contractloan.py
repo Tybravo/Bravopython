@@ -45,6 +45,10 @@ class ContractLoan:
 
 loan = ContractLoan("Michael Bravo", 0.15, 200_000, 2)
 
+print(loan)
+
+
+
 print(loan.annual_rate)
 
 print(loan.get_monthly_rate())
@@ -55,13 +59,5 @@ print(loan.get_total_payment(9697.33, 24))
 
 
 
-print(loan)
 
-"""
-print("Annual Rate:", loan.annual_rate)
-print("Monthly Rate:", loan.get_monthly_rate())
-print("Monthly Payment:", loan.get_monthly_payment())
-print("Total Payment:", loan.get_total_payment(9697.33, 24))
-
-"""
 
