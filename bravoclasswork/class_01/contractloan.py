@@ -17,8 +17,8 @@ class ContractLoan:
 
     @property
     def get_borrower_loan_details(self):
-        get_loan = ContractLoan("Michael Bravo", 0.15, 200_000, 2)
-        return get_loan
+        borrower = ContractLoan("Michael Bravo", 0.15, 200_000, 2)
+        return borrower
 
     def get_monthly_rate(self):
         monthly_rate = self.annual_rate / self.number_of_months
@@ -43,7 +43,7 @@ class ContractLoan:
         return round(total_payment, 0)
 
 
-loan = ContractLoan("Michael Bravo", 0.15, 200_000, 2)
+loan = ContractLoan("Michael Bravo", 15, 200_000, 2)
 
 print(loan)
 
