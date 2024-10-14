@@ -61,3 +61,4 @@ print(loan.get_total_payment(9697.33, 24))
 
 
 
+

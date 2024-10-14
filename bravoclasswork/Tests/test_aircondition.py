@@ -12,14 +12,15 @@ class TestAirCondition(unittest.TestCase):
 
     def test_that_ac_can_be_turned_on(self):
         ac = aircondition.AirCondition()
+        ac.turn_off()
         ac.turn_on()
-        self.assertTrue(ac.get_status())
+        self.assertTrue(ac.get_bike_status())
 
     def test_that_ac_can_be_turned_off(self):
         ac = aircondition.AirCondition()
         ac.turn_on()
         ac.turn_off()
-        self.assertFalse(ac.get_status())
+        self.assertFalse(ac.get_bike_status())
 
     def test_that_temperature_starts_from_16_when_turned_on(self):
         ac = aircondition.AirCondition()

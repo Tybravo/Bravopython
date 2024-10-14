@@ -21,14 +21,15 @@ class Employee:
             self.__age = value
 
     @staticmethod
-    def generate_id(self):
+    def generate_id():
             return "011"  + str(random.randrange(1,100))
 
     def __str__(self):
         return f"""
         id: {self.__id}
         Name: {self.__name}
-                Age: {self.__age}
-                Role: {self.__role}
-                """
+        Age: {self.__age}
+        Role: {self.__role}
+        """
+
 

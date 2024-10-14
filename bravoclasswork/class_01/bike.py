@@ -5,7 +5,7 @@ class Bike:
         self.is_on:bool = False
         self.speed = 0
         self.gear = 0
-        self.accelerate = None
+
 
     def turn_on(self):
         self.is_on = True

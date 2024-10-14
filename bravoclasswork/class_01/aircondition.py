@@ -13,7 +13,7 @@ class AirCondition:
         self.is_on = False
         self.temperature = 0
 
-    def get_status(self):
+    def get_bike_status(self):
         return self.is_on
 
 
