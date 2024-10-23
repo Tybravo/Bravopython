@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="83cc588b-ca27-4e6d-90ad-8adc62d9264a" name="Changes" comment="Updated python file">
+      <change afterPath="$PROJECT_DIR$/Tests/test_appliances.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Tests/test_bike.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/class_01/appliances.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/class_01/bike.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/class_01/dict3multiples.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/class_01/employee.py" afterDir="false" />
@@ -40,7 +42,7 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/class_01" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -85,6 +87,30 @@
     "Python tests.Python tests for test_aircondition.TestAirCondition.test_that_temperature_cannot_go_below_16.executor": "Run",
     "Python tests.Python tests for test_aircondition.TestAirCondition.test_that_temperature_cannot_go_beyond_30.executor": "Run",
     "Python tests.Python tests for test_aircondition.TestAirconditioner.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestAppliances.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestAppliances.test_appliances_app_exist.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestBlender.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestBlender.test_blender_appliance_not_empty.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestCooker.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestCooker.test_cooker_appliance_not_empty.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestCooker.test_cooker_energy_conversion.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestElectricToaster.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestElectricToaster.test_toaster_appliance_not_empty.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestElectricToaster.test_toaster_energy_conversion.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestElectricalFan.test_fan_appliance_exist.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestElectricalFan.test_fan_energy_conversion.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestLightBulb.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestLightBulb.test_appliances_app_exist.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestLightBulb.test_bub_energy_conversion.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestLightBulb.test_energy_conversion.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestNaturalGas.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestNaturalGas.test_natural_gas_appliance_not_empty.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestNaturalGas.test_natural_gas_energy_conversion.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestSpeaker.TestNaturalGas.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestSpeaker.TestNaturalGas.test_natural_gas_appliance_not_empty.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestSpeaker.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestSpeaker.test_speaker_appliance_not_empty.executor": "Run",
+    "Python tests.Python tests for test_appliances.TestSpeaker.test_speaker_energy_conversion.executor": "Run",
     "Python tests.Python tests for test_biggestodd.TestBigOdds.executor": "Run",
     "Python tests.Python tests for test_biggestodd.TestBigOdds.test_that_biggest_odds_function_exist.executor": "Run",
     "Python tests.Python tests for test_biggestodd.TestBiggestOdd.executor": "Run",
@@ -215,7 +241,7 @@
     "Python.television.executor": "Run",
     "Python.wordoccurrence.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "bravo",
     "last_opened_file_path": "C:/Users/DELL USER/Documents/Bravotask/Bravotaskpy",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -244,54 +270,8 @@
       <recent name="C:\Users\DELL USER\PycharmProjects\bravoblaze\Tests" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for test_aircondition.TestAirCondition">
-    <configuration name="employee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bravoclasswork" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_01/employee.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="salaryemployee" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bravoclasswork" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/class_01" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/class_01/salaryemployee.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests for test_aircondition.TestAirCondition" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for test_appliances.TestNaturalGas">
+    <configuration name="Python tests for test_appliances.TestNaturalGas" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="bravoclasswork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -303,11 +283,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_aircondition.TestAirCondition&quot;" />
+      <option name="_new_target" value="&quot;test_appliances.TestNaturalGas&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_aircondition.TestAirCondition.test_that_ac_can_be_turned_on" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_appliances.TestNaturalGas.test_natural_gas_appliance_not_empty" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="bravoclasswork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -319,11 +299,11 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_aircondition.TestAirCondition.test_that_ac_can_be_turned_on&quot;" />
+      <option name="_new_target" value="&quot;test_appliances.TestNaturalGas.test_natural_gas_appliance_not_empty&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for test_bike.TestBike" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_appliances.TestNaturalGas.test_natural_gas_energy_conversion" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="bravoclasswork" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -335,17 +315,49 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_bike.TestBike&quot;" />
+      <option name="_new_target" value="&quot;test_appliances.TestNaturalGas.test_natural_gas_energy_conversion&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_appliances.TestSpeaker.TestNaturalGas.test_natural_gas_appliance_not_empty" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bravoclasswork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_appliances.TestSpeaker.TestNaturalGas.test_natural_gas_appliance_not_empty&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_appliances.TestSpeaker.test_speaker_energy_conversion" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="bravoclasswork" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_appliances.TestSpeaker.test_speaker_energy_conversion&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for test_aircondition.TestAirCondition" />
-        <item itemvalue="Python.salaryemployee" />
-        <item itemvalue="Python.employee" />
-        <item itemvalue="Python tests.Python tests for test_aircondition.TestAirCondition.test_that_ac_can_be_turned_on" />
-        <item itemvalue="Python tests.Python tests for test_bike.TestBike" />
+        <item itemvalue="Python tests.Python tests for test_appliances.TestNaturalGas" />
+        <item itemvalue="Python tests.Python tests for test_appliances.TestNaturalGas.test_natural_gas_energy_conversion" />
+        <item itemvalue="Python tests.Python tests for test_appliances.TestNaturalGas.test_natural_gas_appliance_not_empty" />
+        <item itemvalue="Python tests.Python tests for test_appliances.TestSpeaker.TestNaturalGas.test_natural_gas_appliance_not_empty" />
+        <item itemvalue="Python tests.Python tests for test_appliances.TestSpeaker.test_speaker_energy_conversion" />
       </list>
     </recent_temporary>
   </component>
@@ -383,7 +395,9 @@
       <workItem from="1726665031456" duration="33311000" />
       <workItem from="1727028415755" duration="24670000" />
       <workItem from="1727951252524" duration="66229000" />
-      <workItem from="1728380514438" duration="48749000" />
+      <workItem from="1728380514438" duration="53101000" />
+      <workItem from="1729495491763" duration="5980000" />
+      <workItem from="1729578594694" duration="8238000" />
     </task>
     <task id="LOCAL-00001" summary="Updated python file">
       <option name="closed" value="true" />
@@ -559,7 +573,7 @@
     <SUITE FILE_PATH="coverage/bravoblaze$wordoccurrence.coverage" NAME="wordoccurrence Coverage Results" MODIFIED="1725633075836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
     <SUITE FILE_PATH="coverage/bravoblaze$characterccurrence__1_.coverage" NAME="characterccurrence (1) Coverage Results" MODIFIED="1725654628761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
     <SUITE FILE_PATH="coverage/bravoclasswork$television.coverage" NAME="television Coverage Results" MODIFIED="1727958278598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
-    <SUITE FILE_PATH="coverage/bravoclasswork$.coverage" NAME=" Coverage Results" MODIFIED="1728595500730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
+    <SUITE FILE_PATH="coverage/bravoclasswork$.coverage" NAME=" Coverage Results" MODIFIED="1729717288254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tests" />
     <SUITE FILE_PATH="coverage/bravoblaze$mainsample.coverage" NAME="mainsample Coverage Results" MODIFIED="1724759712039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
     <SUITE FILE_PATH="coverage/bravoclasswork$contractloan.coverage" NAME="contractloan Coverage Results" MODIFIED="1728479736428" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
     <SUITE FILE_PATH="coverage/bravoclasswork$emailvalidation.coverage" NAME="emailvalidation Coverage Results" MODIFIED="1726676030280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
