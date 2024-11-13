@@ -4,7 +4,7 @@
 
 for isnumber in range(1, 11):
 	for counter in range(1, 10):
-		print(f' {isnumber:>2} x {counter:>2} = {isnumber * counter:<4}', end='    ')
+		print(f' {counter:>2} x {isnumber:>2} = {isnumber * counter:<4}', end='    ')
 	print()
 
 

@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83cc588b-ca27-4e6d-90ad-8adc62d9264a" name="Changes" comment="Updated python file">
-      <change afterPath="$PROJECT_DIR$/Tests/test_appliances.py" afterDir="false" />
+    <list default="true" id="83cc588b-ca27-4e6d-90ad-8adc62d9264a" name="Changes" comment="Added python file">
       <change afterPath="$PROJECT_DIR$/Tests/test_bike.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/class_01/appliances.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/class_01/bike.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/class_01/dict3multiples.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/class_01/employee.py" afterDir="false" />
@@ -397,7 +395,7 @@
       <workItem from="1727951252524" duration="66229000" />
       <workItem from="1728380514438" duration="53101000" />
       <workItem from="1729495491763" duration="5980000" />
-      <workItem from="1729578594694" duration="8238000" />
+      <workItem from="1729578594694" duration="8980000" />
     </task>
     <task id="LOCAL-00001" summary="Updated python file">
       <option name="closed" value="true" />
@@ -551,16 +549,32 @@
       <option name="project" value="LOCAL" />
       <updated>1728233964989</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Added python file">
+      <option name="closed" value="true" />
+      <created>1729717492923</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1729717492923</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added python file">
+      <option name="closed" value="true" />
+      <created>1729717518600</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1729717518600</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Added python file" />
     <MESSAGE value="Updated python file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated python file" />
+    <MESSAGE value="Added python file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added python file" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/bravoblaze$bigget_odd.coverage" NAME="bigget_odd Coverage Results" MODIFIED="1724423394264" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/class_01" />
